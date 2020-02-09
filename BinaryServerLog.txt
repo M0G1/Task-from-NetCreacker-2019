@@ -1,0 +1,2 @@
+Try to open serverServer is open
+Try to get connection

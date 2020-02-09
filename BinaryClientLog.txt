@@ -1,0 +1,3 @@
+Client startedSocket is instantiateOutputStream is instantiateInputStream is instantiateWriter is instantiateStart to read building from file:
+	D:\Projects\Java\tasks from NetCreacker\base construction\src\com\company\buildings\net\buildingsMaintenances.bin
+	D:\Projects\Java\tasks from NetCreacker\base construction\src\com\company\buildings\net\buildingsTypes.binReading startingFile is instantiateStreams is instantiateBegin of iteration 0Finished to read buildingClient-Server work
